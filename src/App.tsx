@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from "react-native";
 import { StatusBar } from "expo-status-bar";
 
-import JapanRap from "./commponents/japanRap";
+import JapanRap from "./components/JapanRap/japanRap";
 
 export default function App() {
   return (
